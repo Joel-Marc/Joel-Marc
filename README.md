@@ -11,4 +11,4 @@
 - 🔭 I’m currently working on Strengthening my skills
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joel-marceline-a33b3919a/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
