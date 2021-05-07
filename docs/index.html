@@ -11,161 +11,69 @@
         integrity="sha512-VMsZqo0ar06BMtg0tPsdgRADvl0kDHpTbugCBBrL55KmucH6hP9zWdLIWY//OTfMnzz6xWQRxQqsUFefwHuHyg=="
         crossorigin="anonymous"></script>
     <style>
-        .test {
-            color: blueviolet;
-        }
-
         body {
-            background-color: bisque;
+            background-image: url("img/bg5.jpg");
+            background: linear-gradient(to bottom, #363636, #111);
+            min-height: 100vh;
+            /* 
+            background-size: 100%;
+            background-repeat: no-repeat;
             margin: 0;
+            background-position: fixed;
+            mix-blend-mode: screen; */
+
         }
 
-        .t1,
-        .t4 {
-            color: darksalmon;
-            font-size: 30px;
-            font-family: 'fira code';
-            font-weight: 600;
-            /* font: 300 21px fira code ; */
-            line-height: 1.5em;
+        .title {
+            font-family: 'Times New Roman', Times, serif;
+            text-align: center;
+            align-content: center;
+            color: #fff;
+            font-size: 9vw;
         }
 
-        .t2 {
-            font: 300 21px fira code;
-            color: fuchsia;
-            background-color: aqua;
-            width: 81%;
-            margin: auto;
-            padding: 3em 3em 3em 3em;
-            border: 3px red solid;
-            border-radius: 15px;
+        .l1 {
+            font-size: 3vw;
+            color: #fff;
+            text-align: center;
         }
 
-        .t3 p {
-            font: normal;
-            color: lime;
-            background-color: firebrick;
+        .l1 ul {
+            display: flex;
+            justify-content: center;
+            align-items: center;
         }
 
-        .t3 h2 {
-            font-family: Georgia, 'Times New Roman', Times, serif;
-            font-style: oblique;
-            text-decoration: underline;
+        .l1 ul li {
+            list-style: none;
+            margin: 0 1cm;
+        }
+
+        .li ul li a {
+            text-decoration: none;
+            padding: 6px 15px;
+            color: #fff;
+            border-radius: 20px;
+        }
+
+        .li ul li a:hover {
+            background: #fff;
+            color: #2b1055;
         }
     </style>
 </head>
 
 <body>
-    <h1 class="test">Hello World</h1>
-    <script src="index.js"></script>
-    <div class="t1">
-        <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus quo laborum iure consequatur, repellat
-            iusto blanditiis labore nulla eligendi velit praesentium quis, recusandae quisquam molestiae, ducimus sint
-            assumenda? Incidunt, minus.
-        </p>
+    <h1 class="title">JOEL MARION MARCELINE</h1>
+    <div class="l1">
+        <ul>
+            <li><a href="#t1"><img src="img/png1.png" alt="GitHub" width="69" height="69"></a></li>
+            <li><a href="#"><img src="img/png2.png" alt="YouTube" width="69" height="69"></a></li>
+            <li><a href="#"><img src="img/png3.png" alt="Instagram" width="69" height="69"></a></li>
+            <li><a href="#"><img src="img/png4.png" alt="LinkedIn" width="69" height="69"></a></li>
+        </ul>
     </div>
-    <div class="t2">
 
-        <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus quo laborum iure consequatur, repellat
-            iusto blanditiis labore nulla eligendi velit praesentium quis, recusandae quisquam molestiae, ducimus sint
-            assumenda? Incidunt, minus.
-        </p>
-    </div>
-    <div class="t3">
-        <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus quo laborum iure consequatur,
-            repellat
-            iusto blanditiis labore nulla eligendi velit praesentium quis, recusandae quisquam molestiae, ducimus
-            sint
-            assumenda? Incidunt, minus.
-        </p>
-        <h2>lorem ipsum dolor sit amet</h2>
-    </div>
-    <div class="t4">
-
-    </div>
 </body>
-<canvas id="myChart" width="400" height="400"></canvas>
-<script>
-    var ctx = document.getElementById('myChart').getContext('2d');
-    var myChart = new Chart(ctx, {
-        type: 'bar',
-        data: {
-            labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
-            datasets: [{
-                label: '# of Votes',
-                data: [12, 19, 3, 5, 2, 3],
-                backgroundColor: [
-                    'rgba(255, 99, 132, 0.2)',
-                    'rgba(54, 162, 235, 0.2)',
-                    'rgba(255, 206, 86, 0.2)',
-                    'rgba(75, 192, 192, 0.2)',
-                    'rgba(153, 102, 255, 0.2)',
-                    'rgba(255, 159, 64, 0.2)'
-                ],
-                borderColor: [
-                    'rgba(255, 99, 132, 1)',
-                    'rgba(54, 162, 235, 1)',
-                    'rgba(255, 206, 86, 1)',
-                    'rgba(75, 192, 192, 1)',
-                    'rgba(153, 102, 255, 1)',
-                    'rgba(255, 159, 64, 1)'
-                ],
-                borderWidth: 1
-            }]
-        },
-        options: {
-            scales: {
-                y: {
-                    beginAtZero: true
-                }
-            }
-        }
-    });
-</script>
-<canvas id="myChart1" width="20" height="20"></canvas>
-<script>
-    const data = [{
-        x: 'Jan',
-        net: 100,
-        cogs: 50,
-        gm: 50
-    }, {
-        x: 'Feb',
-        net: 120,
-        cogs: 55,
-        gm: 75
-    }];
-    const cfg = {
-        type: 'bar',
-        data: {
-            labels: ['Jan', 'Feb'],
-            datasets: [{
-                label: 'Net sales',
-                data: data,
-                parsing: {
-                    yAxisKey: 'net'
-                }
-            }, {
-                label: 'Cost of goods sold',
-                data: data,
-                parsing: {
-                    yAxisKey: 'cogs'
-                }
-            }, {
-                label: 'Gross margin',
-                data: data,
-                parsing: {
-                    yAxisKey: 'gm'
-                }
-            }]
-        },
-    };
-    var ctx = document.getElementById('myChart1').getContext('2d');
-    var myChart = new Chart(ctx, cfg);
-</script>
-<div id="vis"></div>
 
 </html>
