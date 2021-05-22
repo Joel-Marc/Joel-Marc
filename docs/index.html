@@ -7,18 +7,30 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Joel M Marceline</title>
     <link rel="icon" href="img/icon1.png" type="image/icon type">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.2.0/chart.min.js"
-        integrity="sha512-VMsZqo0ar06BMtg0tPsdgRADvl0kDHpTbugCBBrL55KmucH6hP9zWdLIWY//OTfMnzz6xWQRxQqsUFefwHuHyg=="
-        crossorigin="anonymous">
-    </script>
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Girassol&display=swap" rel="stylesheet">
     <style>
         body {
             /* background-image: url("img/bg5.jpg"); */
-            background: linear-gradient(to right top, #f0ebcc, #3d84b8, #344fa1, #3f3697);
+            background: linear-gradient(-45deg, #364f6b, #3fc1c9, #f0f0f0, #fc5185, #fd004c);
             min-height: 93vh;
+            background-size: 400% 400%;
             font-family: 'Girassol', cursive;
+            animation: gradient 9s ease infinite;
+        }
+
+        @keyframes gradient {
+            0% {
+                background-position: 0% 50%;
+            }
+
+            50% {
+                background-position: 100% 50%;
+            }
+
+            100% {
+                background-position: 0% 50%;
+            }
         }
 
         .title {
@@ -46,7 +58,7 @@
         a {
             list-style-type: upper-roman;
             text-decoration: none;
-            color: #34656d;
+            color: #000;
         }
 
         img {
@@ -60,6 +72,10 @@
         .img1 {
             min-height: 1.5cm;
             min-width: 1.5cm;
+        }
+
+        footer {
+            text-align: center;
         }
     </style>
 </head>
@@ -87,6 +103,9 @@
         <a href="https://www.linkedin.com/in/joel-marceline-a33b3919a/"><img src="img/png4.png" alt="LinkedIn"></a>
     </div>
 
+    <footer>
+        Made with ❤️ using Pure HTML and CSS.
+    </footer>
 </body>
 
 </html>
