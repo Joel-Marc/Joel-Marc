@@ -149,6 +149,12 @@
         .quote a {
             color: #150e56;
         }
+
+        @media screen and (max-width: 736px) {
+            .quote {
+                max-width: 100%;
+            }
+        }
     </style>
 </head>
 
@@ -182,12 +188,12 @@
         <script>
             let obj = {
                 key1: `“It was previously a question of finding out whether or not life had to have a meaning to be lived.
-            It now becomes clear on the contrary that it will be lived all the better if it has no meaning”
-            <br>
-            <div class="byline">
-            -<a href="https://en.wikipedia.org/wiki/Albert_Camus">Albert Camus</a>
-            </div>
-            `,
+                It now becomes clear on the contrary that it will be lived all the better if it has no meaning”
+                <br>
+                <div class="byline">
+                -<a href="https://en.wikipedia.org/wiki/Albert_Camus">Albert Camus</a>
+                </div>
+                `,
                 key2: `“You will never be happy if you continue to search for what happiness consists of. You will never
                 live if you are looking for the meaning of life.”
                 <br>
@@ -199,21 +205,41 @@
                 danger it would almost be easy to live.”
                 <br>
                 <div class="byline">
-                    -<a href="https://en.wikipedia.org/wiki/Albert_Camus">Albert Camus</a>
+                    -<a href="https://en.wikipedia.org/wiki/Albert_Camus"> Albert Camus</a>
                     </div>
                     `,
-                key3: `““If destruction be our lot, we must ourselves be its author and finisher. As a nation of free
+                key3: `“If destruction be our lot, we must ourselves be its author and finisher. As a nation of free
                 men, we must live through all time, or die by suicide.”
                 <br>
                 <div class="byline">
-                    -<a href="https://en.wikipedia.org/wiki/Abraham_Lincoln">Abraham Lincoln</a>
+                    -<a href="https://en.wikipedia.org/wiki/Abraham_Lincoln"> Abraham Lincoln</a>
+                    </div>
+                    `,
+                key4: `“
+                    Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma –
+                    which is living with the results of other people's thinking.” <br>
+                    <div class = "byline" >
+                    - <a href="https://en.wikipedia.org/wiki/Steve_Jobs">Steve Jobs</a>
+                    </div>
+                    `,
+                key5: `“If you set your goals ridiculously high and it's a failure, you will fail above everyone else's
+                success.” <br>
+                    <div class = "byline" >
+                    - <a href="https://en.wikipedia.org/wiki/James_Cameron">James
+                        Cameron</a>
+                    </div>
+                    `,
+                key6: `“When you’re a kid you fear the darkness as it is the unknown. But when you grow older you fear
+                it because darkness is the only certain thing that will be known.” <br>
+                    <div class = "byline" >
+                    - <a href="#">Anonymous</a>
                     </div>
                     `
             }
 
             for (let key in obj) {
                 let value = obj[key];
-                document.getElementById("demo").innerHTML = obj['key' + String(((new Date().getTime()) % 3) + 1)];
+                document.getElementById("demo").innerHTML = obj['key' + String(((new Date().getTime()) % 6) + 1)];
             }
         </script>
     </div>
