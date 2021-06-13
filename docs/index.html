@@ -23,7 +23,6 @@
             /* animation: gradient 9s ease infinite; */
         }
 
-
         ul {
             list-style-type: none;
             margin: 0;
@@ -81,6 +80,7 @@
         }
 
         .l1 {
+            font-family: Palatino, Palatino Linotype, Palatino LT STD, Book Antiqua, Georgia, serif;
             font-size: 3.6vh;
             color: #7b113a;
             text-align: center;
@@ -94,6 +94,7 @@
         }
 
         .l2 {
+            font-family: Palatino, Palatino Linotype, Palatino LT STD, Book Antiqua, Georgia, serif;
             color: #150e56;
             font-size: 2.7vh;
         }
@@ -130,6 +131,75 @@
             min-height: 0.9cm;
             min-width: 0.9cm;
         }
+
+        .quote {
+            font-family: Palatino, Palatino Linotype, Palatino LT STD, Book Antiqua, Georgia, serif;
+            font-weight: 700;
+            font-size: 22px;
+            justify-content: center;
+            align-items: baseline;
+            display: inline-block;
+            max-width: 60%;
+        }
+
+        .quote hr {
+            border-top: 3px solid #000;
+        }
+
+        .quote a {
+            color: #150e56;
+        }
+
+        @media screen and (min-width: 736px) {
+            ul {
+                list-style-type: none;
+                margin: 0;
+                padding: 0;
+                overflow: hidden;
+                font-size: 2.7vh;
+            }
+
+            li {
+                float: left;
+            }
+
+            li a,
+            .dropbtn {
+                /* display: inline; */
+                color: black;
+                text-align: center;
+                padding: 14px 16px;
+                text-decoration: none;
+            }
+
+            li.dropdown {
+                /* display: inline-block; */
+            }
+
+            .dropdown-content {
+                /* display: none; */
+                /* position: absolute; */
+                /* background: #fff; */
+                backdrop-filter: saturate(180%) blur(12px);
+                min-width: 160px;
+                box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+                z-index: 1;
+            }
+
+            .dropdown-content a {
+                color: black;
+                /* padding: 12px 16px; */
+                text-decoration: none;
+                text-shadow: none;
+                display: block;
+                text-align: left;
+            }
+
+            .dropdown:hover .dropdown-content {
+                /* display: block; */
+            }
+
+        }
     </style>
 </head>
 
@@ -151,6 +221,54 @@
 
     <h1 class="title">JOEL MARION MARCELINE</h1>
 
+
+    <div class="quote">
+
+        <hr>
+
+        <p id="demo">
+        </p>
+
+        <hr>
+        <script>
+            let obj = {
+                key1: `“It was previously a question of finding out whether or not life had to have a meaning to be lived.
+            It now becomes clear on the contrary that it will be lived all the better if it has no meaning”
+            <br>
+            <div class="byline">
+            -<a href="https://en.wikipedia.org/wiki/Albert_Camus">Albert Camus</a>
+            </div>
+            `,
+                key2: `“You will never be happy if you continue to search for what happiness consists of. You will never
+                live if you are looking for the meaning of life.”
+                <br>
+                <div class="byline">
+                    -<a href="https://en.wikipedia.org/wiki/Albert_Camus">Albert Camus</a>
+                    </div>
+                    `,
+                key3: `“Life can be magnificent and overwhelming – that is the whole tragedy. Without beauty, love, or
+                danger it would almost be easy to live.”
+                <br>
+                <div class="byline">
+                    -<a href="https://en.wikipedia.org/wiki/Albert_Camus">Albert Camus</a>
+                    </div>
+                    `,
+                key3: `““If destruction be our lot, we must ourselves be its author and finisher. As a nation of free
+                men, we must live through all time, or die by suicide.”
+                <br>
+                <div class="byline">
+                    -<a href="https://en.wikipedia.org/wiki/Abraham_Lincoln">Abraham Lincoln</a>
+                    </div>
+                    `
+            }
+
+            for (let key in obj) {
+                let value = obj[key];
+                document.getElementById("demo").innerHTML = obj['key' + String(((new Date().getTime()) % 3) + 1)];
+            }
+        </script>
+    </div>
+
     <div class="l2">
         <h2>About Me </h2>
         <p>
@@ -168,14 +286,14 @@
 
 
     <div id="findme" class="l1">
-        <h4>Find Me:</h4>
+        <h4>Find Me</h4>
         <a href="https://github.com/Joel-Marc"><img class="img1" src="img/png1.png" alt="GitHub"></a>
         <a href="https://www.youtube.com/channel/UCJkowAUnHlrliPww5Z89Wtw"><img src="img/png2.png" alt="YouTube"></a>
         <a href="https://www.instagram.com/joel_marceline/"><img src="img/png3.png" alt="Instagram"></a>
         <a href="https://www.linkedin.com/in/joel-marceline-a33b3919a/"><img src="img/png4.png" alt="LinkedIn"></a>
         <br>
         <p id="contact">
-            <h4> Contact Me :</h4>
+            <h4> Contact Me </h4>
 
             <a href="mailto:joemarcoff@gmail.com">joemarcoff@gmail.com</a>
         </p>
