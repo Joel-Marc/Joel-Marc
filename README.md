@@ -9,8 +9,8 @@
 <!--
 **Joel-Marc/Joel-Marc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently working on Exploring and learning new technologies.
+- 🔭 Currently interested in Data Engineering, ML, AI, CoCogSci
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joel-marceline-a33b3919a/) , [MailTo](mailto:joemarcoff@gmail.com)
 - 📁 Find More About Me Here : [Click Here](https://joel-marc.github.io/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-Marc&layout=compact&theme=dark&hide_border=true&langs_count=10)](https://github.com/Joel-Marc)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-Marc&layout=compact&theme=dark&hide_border=true&langs_count=9&hide=javascript,html)](https://github.com/Joel-Marc)
