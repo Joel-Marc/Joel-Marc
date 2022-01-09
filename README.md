@@ -9,7 +9,7 @@
 <!--
 **Joel-Marc/Joel-Marc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 Currently interested in Data Engineering, ML, AI, CoCogSci
+- 🔭 Currently interested in Data Engineering, ML
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joel-marceline-a33b3919a/) , [MailTo](mailto:joemarcoff@gmail.com)
 - 📁 Find More About Me Here : [Click Here](https://joel-marc.github.io/)
 
