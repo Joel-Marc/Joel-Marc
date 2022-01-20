@@ -18,7 +18,7 @@
   
 </div>
 
-### Some of the tools and languages I've used and am still learning about:
+### Some of the tools and languages I've used and am still learning about: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px />
 
 <div align='center'>
   <a href='https://git-scm.com' target='_blank' rel='noopener' rel='noreferrer'>
@@ -51,7 +51,7 @@
 
 </div>
 
-### Some of the tools and languages I'm planning learning about this year:
+### Some of the tools and languages I intend to learn about this year:
 
 <div align='center'>
   <a href='https://redis.io/' target='_blank' rel='noopener' rel='noreferrer'>
