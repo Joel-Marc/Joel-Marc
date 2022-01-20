@@ -4,6 +4,16 @@
 
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joel-Marc&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark&hide=contribs,issues" /> -->
 
+## What i've used and am working on
+
+<div align='center'>
+
+  <img src='https://img.shields.io/static/v1?label=OS&message=Linux&color=blue&style=for-the-badge&logo=linux' />
+  ![Pop! OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
+  <img src='https://img.shields.io/static/v1?label=Editor&message=VSCode&color=blue&style=for-the-badge&logo=visual-studio-code' />
+  
+</div>
+
 [![GIT STAT](https://github-readme-stats.vercel.app/api?username=Joel-Marc&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark&hide=contribs,issues)](https://github.com/Joel-Marc)
 
 <!--
