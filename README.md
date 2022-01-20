@@ -18,7 +18,7 @@
   
 </div>
 
-## Some of the tech i've used and am learning more on:
+## Some of the tools and languages I've used and am still learning about:
 
 <div align='center'>
   <a href='https://git-scm.com' target='_blank' rel='noopener' rel='noreferrer'>
