@@ -7,7 +7,7 @@
 - 🔭 Currently interested and Learning about Data Engineering, ML, Back-End Development
 - 📫 How to reach me: <a href='https://www.linkedin.com/in/joel-marceline-a33b3919a/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' />
-  </a> , [MailTo](mailto:joemarcoff@gmail.com)
+  </a>
 - 📁 Find More About Me Here : [Click Here](https://joel-marc.github.io/)
 
 <div align='center'>
