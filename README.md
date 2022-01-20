@@ -33,7 +33,9 @@
   <a href='https://www.gnu.org/software/bash/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white' />
   </a>
-  
+  <a href='https://isocpp.org/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=C%2B%2B&style=for-the-badge&logo=c%2B%2B&color=00599c' />
+  </a>
   <a href='https://www.markdownguide.org/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white' />
   </a>
@@ -43,8 +45,39 @@
   <a href='https://mongodb.com/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white5' />
   </a>
+  <a href='https://neo4j.com/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white' />
+  </a>
 
+</div>
+## Some of the tools and languages I'am planning learning about this year:
 
+<div alighn='center'>
+    
+    <a href='https://redis.io/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white' />
+  </a>
+    <a href='https://go.dev/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white' />
+  </a>
+    <a href='https://graphql.org/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white' />
+  </a>
+     <a href='https://www.rust-lang.org/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white' />
+  </a>
+     <a href='https://www.tensorflow.org/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white' />
+  </a>
+     <a href='https://www.docker.com/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white' />
+  </a>
+   <a href='https://spark.apache.org/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=Apache%20Spark&style=for-the-badge&logo=apache-spark&color=e25a1c&logoColor=white' />
+  </a>
+    <a href='https://mongodb.com/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white5' />
+  </a>
 
 
 [![GIT STAT](https://github-readme-stats.vercel.app/api?username=Joel-Marc&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark&hide=contribs,issues)](https://github.com/Joel-Marc)
