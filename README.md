@@ -44,7 +44,6 @@
     <img src='https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white5' />
   </a>
 
-</div>
 
 
 
@@ -56,3 +55,6 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-Marc&layout=compact&theme=dark&hide_border=true&langs_count=9&hide=javascript)](https://github.com/Joel-Marc)
+    
+</div>
+    
