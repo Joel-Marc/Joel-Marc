@@ -50,6 +50,7 @@
   </a>
 
 </div>
+
 ## Some of the tools and languages I'am planning learning about this year:
 
 <div alighn='center'>
