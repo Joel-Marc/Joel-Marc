@@ -53,9 +53,8 @@
 
 ## Some of the tools and languages I'am planning learning about this year:
 
-<div alighn='center'>
-    
-    <a href='https://redis.io/' target='_blank' rel='noopener' rel='noreferrer'>
+<div align='center'>
+  <a href='https://redis.io/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white' />
   </a>
     <a href='https://go.dev/' target='_blank' rel='noopener' rel='noreferrer'>
