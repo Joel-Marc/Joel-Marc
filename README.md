@@ -5,7 +5,9 @@
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joel-Marc&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark&hide=contribs,issues" /> -->
 
 - 🔭 Currently interested and Learning about Data Engineering, ML, Back-End Development
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joel-marceline-a33b3919a/) , [MailTo](mailto:joemarcoff@gmail.com)
+- 📫 How to reach me: <a href='https://www.linkedin.com/in/joel-marceline-a33b3919a/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' />
+  </a> , [MailTo](mailto:joemarcoff@gmail.com)
 - 📁 Find More About Me Here : [Click Here](https://joel-marc.github.io/)
 
 <div align='center'>
@@ -29,7 +31,17 @@
     <img src='https://img.shields.io/static/v1?label=&message=python&style=for-the-badge&logo=python&logoColor=white&color=3776ab' />
   </a>
   <a href='https://www.gnu.org/software/bash/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=%23%21%2Fbin%2Fbash&logoColor=white&color=grey&style=for-the-badge&logo=gnu-bash&color=4eaa25' />
+    <img src='https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white' />
+  </a>
+  
+  <a href='https://www.markdownguide.org/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white' />
+  </a>
+  <a href='https://www.postgresql.org/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white' />
+  </a>
+  <a href='https://mongodb.com/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white5' />
   </a>
 
 </div>
