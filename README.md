@@ -1,9 +1,13 @@
 # Hello 👋 | வணக்கம் 🙏
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Joel-Marc.Joel-Marc)
+
 ## About Me
 
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joel-Marc&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark&hide=contribs,issues" /> -->
 <br>
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 Currently interested and Learning about Data Engineering, Back-End Development, Machine Learning
 - 📫 How to reach me: <a href='https://www.linkedin.com/in/joel-marceline-a33b3919a/' target='_blank' rel='noopener' rel='noreferrer'><img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' /></a>
