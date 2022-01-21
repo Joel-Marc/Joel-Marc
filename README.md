@@ -74,6 +74,9 @@
    <a href='https://spark.apache.org/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=Apache%20Spark&style=for-the-badge&logo=apache-spark&color=e25a1c&logoColor=white' />
   </a>
+  <a href='https://kafka.apache.org/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=Apache%20Kafka&style=for-the-badge&logo=apache-kafka&color=000000' />
+  </a>
 
 
 [![GIT STAT](https://github-readme-stats.vercel.app/api?username=Joel-Marc&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark&hide=contribs,issues)](https://github.com/Joel-Marc)
