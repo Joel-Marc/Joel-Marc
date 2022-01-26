@@ -52,7 +52,7 @@
 
 </div>
 
-### Some of the tools and languages I intend to learn about this year:
+### Some of the tools and languages I intend to learn and use this year and beyond:
 
 <div align='center'>
   <a href='https://redis.io/' target='_blank' rel='noopener' rel='noreferrer'>
@@ -78,6 +78,12 @@
   </a>
   <a href='https://kafka.apache.org/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=Apache%20Kafka&style=for-the-badge&logo=apache-kafka&color=000000' />
+  </a>
+  <a href='https://www.typescriptlang.org/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' />
+  </a>
+  <a href='https://fastapi.tiangolo.com/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi' />
   </a>
 
 
