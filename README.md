@@ -14,7 +14,6 @@
 <div align='center'>
 
   <img src='https://img.shields.io/static/v1?label=OS&message=Linux&color=blue&style=for-the-badge&logo=linux' />
-  <img src='https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white' />
   <img src='https://img.shields.io/static/v1?label=Editor&message=VSCode&color=blue&style=for-the-badge&logo=visual-studio-code' />
   
 </div>
@@ -24,9 +23,6 @@
 <div align='center'>
   <a href='https://git-scm.com' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=git&style=for-the-badge&logo=git&logoColor=white&color=f05032' />
-  </a>
-  <a href='https://openjdk.java.net/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=Java&style=for-the-badge&logo=java&color=007396&logoColor=white' />
   </a>
   <a href='https://www.python.org/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=python&style=for-the-badge&logo=python&logoColor=white&color=3776ab' />
@@ -40,15 +36,6 @@
   <a href='https://www.markdownguide.org/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white' />
   </a>
-  <a href='https://www.postgresql.org/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white' />
-  </a>
-  <a href='https://mongodb.com/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white5' />
-  </a>
-  <a href='https://neo4j.com/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white' />
-  </a>
 
 </div>
 
@@ -57,9 +44,6 @@
 <div align='center'>
   <a href='https://redis.io/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white' />
-  </a>
-    <a href='https://go.dev/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white' />
   </a>
     <a href='https://graphql.org/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white' />
@@ -72,16 +56,6 @@
   </a>
      <a href='https://www.docker.com/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white' />
-  </a>
-   <a href='https://spark.apache.org/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=Apache%20Spark&style=for-the-badge&logo=apache-spark&color=e25a1c&logoColor=white' />
-  </a>
-  <a href='https://kafka.apache.org/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=Apache%20Kafka&style=for-the-badge&logo=apache-kafka&color=000000' />
-  </a>
-  </a>
-  <a href='https://fastapi.tiangolo.com/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi' />
   </a>
 
 
