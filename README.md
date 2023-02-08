@@ -7,7 +7,7 @@
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joel-Marc&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark&hide=contribs,issues" /> -->
 <br>
 
-- 🔭 Currently interested and Learning about Data Engineering, Back-End Development, Machine Learning
+- 🔭 Passionate on learning ways to solve problems using code, philosophy, movies and music.
 - 📫 How to reach me: <a href='https://www.linkedin.com/in/joel-marceline-a33b3919a/' target='_blank' rel='noopener' rel='noreferrer'><img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' /></a>
 
 <br>
