@@ -12,4 +12,4 @@ on the side:
 - [franchise](https://elect.us.org) — how the world chooses who governs
 - [wikijourney](https://wikijourney.xyz) — watch a word, a food or an idea travel through history
 
-[site](https://joel-marc.github.io) · [linkedin](https://www.linkedin.com/in/joel-marc) · [x](https://x.com/JMM36912) · [email](mailto:joel.marceline3@gmail.com)
+[site](https://jmarc.me/) · [linkedin](https://www.linkedin.com/in/joel-marc) · [x](https://x.com/JMM36912) · [email](mailto:joel.marceline3@gmail.com)
