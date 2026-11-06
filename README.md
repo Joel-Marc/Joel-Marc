@@ -10,6 +10,6 @@ i work on payments and digital assets at [nium](https://www.nium.com). before th
 on the side:
 
 - [franchise](https://elect.us.org) — how the world chooses who governs
-- [wikijourney](https://wikijourney.xyz) — watch a word, a food or an idea travel through history
+- [wikijourney](https://wikijourney.xyz) — watch a word, a food or an idea travel through space and time
 
 [site](https://jmarc.me/) · [linkedin](https://www.linkedin.com/in/joel-marc) · [x](https://x.com/JMM36912) · [email](mailto:joel.marceline3@gmail.com)
